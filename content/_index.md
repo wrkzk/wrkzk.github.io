@@ -67,6 +67,6 @@ title = 'Home'
 | ~ <b>Swimming Wearable</b> ~ <a href='https://github.com/wrkzk/swimming-wearable'>link</a>                                                                 |
 |   This repository contains my code for programming a Seed Studio XIAO nrf52840 Sense board |
 |   to collect accelerometer and gyroscope data. Developed as part of the 2025 AI, Privacy,  |
-|   and Security REU @ Nortwestern University.                                               |
+|   and Security REU @ Northwestern University.                                              |
 +--------------------------------------------------------------------------------------------+
 </div>
