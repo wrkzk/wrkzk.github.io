@@ -4,8 +4,6 @@ draft = false
 title = 'Home'
 +++
 
-# Site is still under construction...
-
 <div class='ascii'>
 <b>  Welcome, traveler...</b>
 +--------------------------------------------------------------------------------------------+
@@ -46,7 +44,7 @@ title = 'Home'
 +--------------------------------------------------------------------------------------------+
 | Hi, my name is Warren. I am a current Junior at Carleton College in Northfield, Minnesota, |
 | where I am studying computer science and mathematics. I am passionate about computer       |
-| security low-level programming, and the intersection of linguistics and computer science.  |
+| security, low-level programming, and the intersection of linguistics and computer science. |
 | In my free time, I enjoy experimenting with computers, swimming, longboarding, and reading |
 | science fiction. Check out my GitHub profile to see projects that I am currently working   |
 | on, including my FreeBSD system configuration!                                             |
@@ -61,7 +59,7 @@ title = 'Home'
 <b>  Projects</b>
 +--------------------------------------------------------------------------------------------+
 | ~ <b>codeduel.io</b> ~ <a href='https://github.com/noazlee/code_off'>link</a>                                                                       |
-|   This was <a href="https://leen.people.sites.carleton.edu/">my friend's</a> and my entry to the 2025 Boot.dev hackathon - which won second!     |
+|   This was my friend's and my entry to the 2025 Boot.dev hackathon - which won second!     |
 |   Users compete in 1v1 code challenges to defeat their opponent before it is too late.     |
 |                                                                                            |
 | ~ <b>Swimming Wearable</b> ~ <a href='https://github.com/wrkzk/swimming-wearable'>link</a>                                                                 |
