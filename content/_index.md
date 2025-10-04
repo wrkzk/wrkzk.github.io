@@ -71,5 +71,4 @@ title = 'Home'
 
 <div class='ascii'>
 +--------------------------------------------------------------------------------------------+
-                                Warren Kozak (C) 2025 | <a href='https://github.com/wrkzk/wrkzk.github.io'>source</a>
-</div>
+                                Warren Kozak (C) 2025 | <a href='https://github.com/wrkzk/wrkzk.github.io'>source</a></div>
