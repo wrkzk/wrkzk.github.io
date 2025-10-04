@@ -5,7 +5,7 @@ title = 'Home'
 +++
 
 <div class='ascii'>
-<b>  Welcome, traveler...</b>
+<b>  Welcome...</b>
 +--------------------------------------------------------------------------------------------+
 | You have reached the personal website of Warren Kozak, aka wrkzk. Enjoy your stay!         |
 +--------------------------------------------------------------------------------------------+
@@ -43,15 +43,15 @@ title = 'Home'
 <b>  About</b>
 +--------------------------------------------------------------------------------------------+
 | Hi, my name is Warren. I am a current Junior at Carleton College in Northfield, Minnesota, |
-| where I am studying computer science and mathematics. I am passionate about computer       |
-| security, low-level programming, and the intersection of linguistics and computer science. |
-| In my free time, I enjoy experimenting with computers, swimming, longboarding, and reading |
-| science fiction. Check out my GitHub profile to see projects that I am currently working   |
-| on, including my FreeBSD system configuration!                                             |
+| where I am studying computer science and mathematics. I am passionate about embedded       |
+| systems programming, real-time computing, and the intersection of linguistics and computer |
+| science. In my free time, I enjoy experimenting with computers, swimming, longboarding,    |
+| and reading science fiction. Check out my GitHub profile to see projects that I am         |
+| currently working on, including my FreeBSD system configuration!                           |
 |                                                                                            |
-| I am currently spending the summer up in Evanston, Illinois at Northwestern University,    |
-| where I am researching the effectiveness of custom wearable devices to aid in competitive  |
-| swimming training.                                                                         |
+| I spent last summer up in Evanston, Illinois at Northwestern University, where I was       |
+| researching the effectiveness of custom wearable devices to aid in competitive swimming    |
+| training. Check out the link below to see more about this.                                 |
 +--------------------------------------------------------------------------------------------+
 </div>
 
