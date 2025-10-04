@@ -3,6 +3,7 @@ date = '2025-08-04T17:01:15-05:00'
 draft = false 
 title = 'Home'
 +++
+<div class='home_content'>
 
 <div class='ascii'>
 <b>  Welcome...</b>
@@ -69,6 +70,8 @@ title = 'Home'
 +--------------------------------------------------------------------------------------------+
 </div>
 
+</div>
 <div class='ascii'>
 +--------------------------------------------------------------------------------------------+
-                                Warren Kozak (C) 2025 | <a href='https://github.com/wrkzk/wrkzk.github.io'>source</a></div>
+                                Warren Kozak (C) 2025 | <a href='https://github.com/wrkzk/wrkzk.github.io'>source</a>
+</div>
