@@ -69,7 +69,7 @@ title = 'Home'
 |   to collect accelerometer and gyroscope data. Developed as part of the 2025 AI, Privacy,  |
 |   and Security REU @ Northwestern University.                                              |
 |                                         -   -   -                                          |
-| ~ <b>terra-gen</b> ~ <a href='https://github.com/wrkzk/terra-gen'>link</a>                                                                       |
+| ~ <b>terra-gen</b> ~ <a href='https://wrkzk.github.io/terra-gen/'>link</a>                                                                         |
 |   A small web application that uses Three.js and Simplex Noise to procedurally generate    |
 |   realistic terrain. This is still a work in progress, I will get around to adding         |
 |   features at some point sooner or later! (Particle-Based Hydraulic Erosion maybe?)        |
