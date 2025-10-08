@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ .Content }}
 {{ range .Pages }}
-<a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+<span><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a> ~ {{ .Date.Format "January 2, 2006" }}"</span>
 {{ end }}
 {{ end }}
