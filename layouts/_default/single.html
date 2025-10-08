@@ -1,5 +1,9 @@
 {{ define "main" }}
-<br>< <a href='/'>home</a><br><br>
+{{ if not .IsHome }}
+{{ with .Parent }}
+<br>< <a href='/blog/'>home</a><br><br>
+{{ end }}
+{{ end }}
 {{ .Content }}
 {{ end }}
 
