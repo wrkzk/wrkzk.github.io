@@ -52,7 +52,8 @@ title = 'Home'
 |                                                                                            |
 | I spent last summer up in Evanston, Illinois at Northwestern University, where I was       |
 | researching the effectiveness of custom wearable devices to aid in competitive swimming    |
-| training. Check out the link below to see more about this.                                 |
+| training. Check out the link below to see more about this. Next summer I'm working at      |
+| Garmin as a software engineering intern with the GNSS software team.                       |
 +--------------------------------------------------------------------------------------------+
 </div>
 
@@ -62,11 +63,16 @@ title = 'Home'
 | ~ <b>codeduel.io</b> ~ <a href='https://github.com/noazlee/code_off'>link</a>                                                                       |
 |   This was my friend's and my entry to the 2025 Boot.dev hackathon - which won second!     |
 |   Users compete in 1v1 code challenges to defeat their opponent before it is too late.     |
-|                                                                                            |
+|                                         -   -   -                                          |
 | ~ <b>Swimming Wearable</b> ~ <a href='https://github.com/wrkzk/swimming-wearable'>link</a>                                                                 |
 |   This repository contains my code for programming a Seed Studio XIAO nrf52840 Sense board |
 |   to collect accelerometer and gyroscope data. Developed as part of the 2025 AI, Privacy,  |
 |   and Security REU @ Northwestern University.                                              |
+|                                         -   -   -                                          |
+| ~ <b>terra-gen</b> ~ <a href='https://github.com/wrkzk/terra-gen'>link</a>                                                                       |
+|   A small web application that uses Three.js and Simplex Noise to procedurally generate    |
+|   realistic terrain. This is still a work in progress, I will get around to adding         |
+|   features at some point sooner or later! (Particle-Based Hydraulic Erosion maybe?)        |
 +--------------------------------------------------------------------------------------------+
 </div>
 
