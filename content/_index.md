@@ -53,7 +53,7 @@ title = 'Home'
 | I spent last summer up in Evanston, Illinois at Northwestern University, where I was       |
 | researching the effectiveness of custom wearable devices to aid in competitive swimming    |
 | training. Check out the link below to see more about this. Next summer I'm working at      |
-| Garmin as a software engineering intern with the GNSS software team.                       |
+| Garmin as a software engineering intern with the GNSS software team in Olathe, KS.         |
 +--------------------------------------------------------------------------------------------+
 </div>
 
@@ -79,5 +79,5 @@ title = 'Home'
 </div>
 <div class='ascii'>
 +--------------------------------------------------------------------------------------------+
-                                Warren Kozak (C) 2025 | <a href='https://github.com/wrkzk/wrkzk.github.io'>source</a>
+                                Warren Kozak (C) 2025 | <a href='https://github.com/wrkzk/wrkzk.github.io'>source</a><br>
 </div>
