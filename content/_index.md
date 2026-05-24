@@ -36,7 +36,7 @@ title = 'Home'
 |       *         |                                              .                           |
 |                 '                                                                          |
 +--------------------------------------------------------------------------------------------+
-|                   <a href='https://github.com/wrkzk'>github</a>                  <a href='https://linkedin.com/in/wrkzk'>linkedin</a>                  <a href="./resume.pdf">resume</a>                  |
+|                   <a href='https://github.com/wrkzk'>github</a>                  <a href='https://linkedin.com/in/wrkzk'>linkedin</a>                  <a href="./resume.pdf">resume</a>                 |
 +--------------------------------------------------------------------------------------------+
 </div>
 
