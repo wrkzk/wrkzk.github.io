@@ -59,18 +59,18 @@ title = 'Home'
 <div class='ascii'>
 <b>  Selected Research and Projects</b>
 +--------------------------------------------------------------------------------------------+
-| ~ <b>Swimming Wearable Study</b> ~ <a href=''>paper</a> <a href=''>repo</a>                                                             |
-|   Here you can find my code and paper written during the 2025 AI, privacy, and security
-|   NSF REU at Northwestern University. I worked on programming a Seed Studio XIAO nrf52840
-|   Sense board to collect a dataset of IMU readings during competitive swimming.
-|
-| ~ <b>ROS2 Pursuit/Evasion</b> ~ <a href=''>paper</a> <a href=''>repo</a>
-|   This paper serves as an overview of some of the current methods for single robot pursuit
-|   and evasion, as well as a simple implementation of a swarm algorithm for robot pursuit.
-|    All robots are simulated in Gazebo. This research was conducted as part of the Carleton
-|    course CS 327: Introduction to Robotics. (In Progress)
-|
-| ~ <b>T5-Harmony</b> ~ <a href='./research/T5-Harmony.pdf'>paper</a> <a href=''>repo</a>                                                                       |
+| ~ <b>Swimming Wearable Study</b> ~ <a href='./research/Swimming-Wearable.pdf'>poster</a> ~ <a href='https://github.com/wrkzk/swimming_analysis'>repo</a>                                                     |
+|   Here you can find my code and paper written during the 2025 AI, privacy, and security    |
+|   NSF REU at Northwestern University. I worked on programming a Seed Studio XIAO nrf52840  |
+|   Sense board to collect a dataset of IMU readings during competitive swimming.            |
+|                                                                                            |
+| ~ <b>ROS2 Pursuit/Evasion</b> ~ <a href=''>paper</a> ~ <a href='https://github.com/wrkzk/ros2-pursuit-evasion'>repo</a>                                                                          |
+|   This paper serves as an overview of some of the current methods for single robot pursuit |
+|   and evasion, as well as a simple implementation of a swarm algorithm for robot pursuit.  |
+|    All robots are simulated in Gazebo. This research was conducted as part of the Carleton |
+|    course CS 327: Introduction to Robotics. (In Progress)                                  |
+|                                                                                            |
+| ~ <b>T5-Harmony</b> ~ <a href='./research/T5-Harmony.pdf'>paper</a> ~ <a href='https://github.com/wrkzk/t5-harmony'>repo</a>                                                                |
 |   The T5 language model is a series of encoder-decoder models developed by Google. In this |
 |   paper, we seek to answer whether encoder-decoder models are successfuly not only at      |
 |   modelling and generating natural language, but also harmony structures present in music. |
